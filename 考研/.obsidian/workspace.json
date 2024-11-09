@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "36eb5296f23f95f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8829807274e6f287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd4ce47c54c0da6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zhw/数学/高数.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "高数"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7eb51b4bcad93251",
+    "type": "split",
+    "children": [
+      {
+        "id": "25a9eefd895afd4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f46c77c45132b5b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f5a9c8351a20a5ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1506902c5fe9cb1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "21bead69e679c41d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cd65f5b8ac581cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6f3492958ab0da9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "62ef73af376a4e80",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "f391fd20021574ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "742d165416bebd9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zhw/数学/高数.md"
+              },
+              "icon": "lucide-list",
+              "title": "高数 的大纲"
+            }
+          },
+          {
+            "id": "b5a43399363f2052",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bd4ce47c54c0da6d",
+  "lastOpenFiles": [
+    "zhw/数学/高数.md",
+    "zhw/数学/线代.md",
+    "zhw/数学/images/1731116443142.png",
+    "zhw/数学/images/1731116403217.png",
+    "zhw/数学/images",
+    "zhw/408",
+    "zhw/数学",
+    "zhw/数学/概率统计.md",
+    "zhw/408/计网.md",
+    "数学/高数/多元微分.md",
+    "数学/高数/几何应用.md",
+    "数学/高数/n项极限.md",
+    "数学/高数/待整理.md",
+    "数学/高数/数学摇一摇.md",
+    "数学/高数/积分比大小.md",
+    "数学/高数/函数连续.md",
+    "数学/高数/反常积分.md",
+    "数学/高数/二重积分.md",
+    "zhw/images/1731115888390.png",
+    "数学/高数/泰勒展开.md",
+    "数学/概率论/概率论.md",
+    "数学/概率论/数理统计.md",
+    "zhw/images/1730947925835.png",
+    "zhw/images",
+    "操作系统/进程管理.md",
+    "操作系统/操作系统概述.md",
+    "计组/第五章-CPU/中断和异常机制.md",
+    "计网/网络层.md",
+    "计网/未命名 1.md",
+    "zhw",
+    "计网/未命名.md",
+    "计网/images/page_37.png",
+    "计网/images/定长子网划分和变长子网划分的二叉树解法 - 1.定长子网划分和变长子网划分的二叉树解法(Av817692587,P1).mp4_001514.740.jpg",
+    "计网/images/定长子网划分和变长子网划分的二叉树解法 - 1.定长子网划分和变长子网划分的二叉树解法(Av817692587,P1).mp4_000724.838.jpg",
+    "计网/images/定长子网划分和变长子网划分的二叉树解法 - 1.定长子网划分和变长子网划分的二叉树解法(Av817692587,P1).mp4_000541.354.jpg",
+    "计网/协议专题.md",
+    "计网/传输层.md",
+    "计网/数据链路层.md",
+    "真题/选择宽松版/[选择宽松版]第一部分：数据结构真题考点分类.pdf",
+    "真题/选择宽松版/[选择宽松版]第三部分：操作系统真题考点分类.pdf",
+    "真题/选择宽松版/[选择宽松版]第二部分：计算机组成原理真题考点分类.pdf",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "计组/资料/大题考点.png",
+    "真题/408真题/2022年计算机408统考真题..pdf",
+    "真题/408真题/2009年计算机408统考真题..pdf",
+    "操作系统/images/image-4.png",
+    "Excalidraw/未命名.canvas"
+  ]
+}

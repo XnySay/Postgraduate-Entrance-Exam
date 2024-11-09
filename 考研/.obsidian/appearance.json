@@ -1,0 +1,24 @@
+{
+  "cssTheme": "Underwater",
+  "accentColor": "",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "minimal-cards",
+    "floating-status-bar",
+    "bookmark",
+    "mermaid",
+    "code",
+    "base",
+    "custom-admonitions.6ef9f4",
+    "novel-tex-n-l",
+    "Prism Mark Highlight System",
+    "表格优化1.5.1 - 上善若水"
+  ],
+  "interfaceFontFamily": "霞鹜文楷等宽 屏幕阅读版,仓耳今楷04",
+  "baseFontSize": 15,
+  "textFontFamily": "霞鹜文楷等宽 屏幕阅读版,仓耳今楷04,JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": false
+}
